@@ -93,3 +93,5 @@ Located in the `Dashboard` sheet, the dashboard includes:
 
 ## License
 Licensed under the MIT License. See `LICENSE` for details.# Kenyan-Schools-Dashboard
+
+![image](https://github.com/user-attachments/assets/4b32c495-1932-491d-98f4-820ec4078c0a)
