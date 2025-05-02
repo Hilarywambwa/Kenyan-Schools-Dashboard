@@ -88,7 +88,7 @@ Located in the `Dashboard` sheet, the dashboard includes:
 
 ## Contact
 - **Email**: wambwahilary@gmail.com
-- **LinkedIn**: [https://www.linkedin.com/in/hilary-wambwa-288610355/]
+- **LinkedIn**: https://www.linkedin.com/in/hilary-wambwa-288610355/
 
 
 ## License
